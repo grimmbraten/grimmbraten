@@ -1,7 +1,7 @@
 ```javascript
 const grimmbraten = {
-  code: [Javascript, Typescript, GraphQL, HTML, CSS, Shell],
-  tools: [React, Node, Babel, Webpack, Apollo-Server, Styled-Components, Jest, Puppeteer, Git, AWS],
+  code: [Javascript, Typescript, GraphQL, Shell],
+  tools: [React, Node, Babel, Webpack, Apollo, Jest, Puppeteer, Git],
   devPreferences: {
     device: "MacBook Pro",
     ide: "Visual studio code",
