@@ -11,7 +11,7 @@ const grimmbraten = {
     }
   },
   occupation: {
-    role: "Software Engineer & Technical Lead",
+    role: "Software Engineer & Acting Technical Lead",
     company: "Polestar",
     location: "Gothenburg, Sweden"
   },
@@ -49,10 +49,7 @@ const grimmbraten = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grimmbraten&langs_count=8&theme=vue-dark&hide_border=true&layout=compact" />
 </p>
 
-<a href="https://dev.to/grimmbraten"><img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://www.freecodecamp.org/grimmbraten"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/></a>
 <a href="https://www.hackerrank.com/grimmbraten" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/grimmbraten" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:erik.grimmbraten@polestar.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-<a href="https://replit.com/@grimmbraten"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/></a>
   
