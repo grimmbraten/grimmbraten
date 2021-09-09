@@ -1,7 +1,7 @@
 ```javascript
 const grimmbraten = {
   code: [Javascript, Typescript, GraphQL, Shell],
-  tools: [React, Node, Babel, Webpack, Apollo, Jest, Puppeteer, Git],
+  tools: [React, Node, Babel, Webpack, Apollo, Docker, Jest, Puppeteer, Git],
   devPreferences: {
     device: "MacBook Pro",
     ide: "Visual studio code",
@@ -11,11 +11,10 @@ const grimmbraten = {
     }
   },
   occupation: {
-    role: "Software Engineer & Acting Technical Lead",
+    role: "Acting Technical Lead & Software Engineer",
     company: "Polestar",
     location: "Gothenburg, Sweden"
-  },
- funFact: "Heavy metal helps me stay calm when I'm debugging"
+  }
 }
 ```
 
